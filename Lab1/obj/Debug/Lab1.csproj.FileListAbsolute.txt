@@ -1,0 +1,7 @@
+D:\5 sem\SPP\SPP\Lab1\bin\Debug\Lab1.exe.config
+D:\5 sem\SPP\SPP\Lab1\bin\Debug\Lab1.exe
+D:\5 sem\SPP\SPP\Lab1\bin\Debug\Lab1.pdb
+D:\5 sem\SPP\SPP\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+D:\5 sem\SPP\SPP\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\5 sem\SPP\SPP\Lab1\obj\Debug\Lab1.exe
+D:\5 sem\SPP\SPP\Lab1\obj\Debug\Lab1.pdb
