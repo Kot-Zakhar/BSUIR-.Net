@@ -1,7 +1,0 @@
-D:\5 sem\SPP\SPP\Lab3\bin\Debug\Lab3.exe.config
-D:\5 sem\SPP\SPP\Lab3\bin\Debug\Lab3.exe
-D:\5 sem\SPP\SPP\Lab3\bin\Debug\Lab3.pdb
-D:\5 sem\SPP\SPP\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
-D:\5 sem\SPP\SPP\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
-D:\5 sem\SPP\SPP\Lab3\obj\Debug\Lab3.exe
-D:\5 sem\SPP\SPP\Lab3\obj\Debug\Lab3.pdb
