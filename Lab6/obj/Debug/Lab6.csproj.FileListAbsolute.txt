@@ -1,0 +1,6 @@
+D:\5 sem\SPP\SPP\Lab6\bin\Debug\Lab6.exe.config
+D:\5 sem\SPP\SPP\Lab6\bin\Debug\Lab6.exe
+D:\5 sem\SPP\SPP\Lab6\bin\Debug\Lab6.pdb
+D:\5 sem\SPP\SPP\Lab6\obj\Debug\Lab6.csprojAssemblyReference.cache
+D:\5 sem\SPP\SPP\Lab6\obj\Debug\Lab6.exe
+D:\5 sem\SPP\SPP\Lab6\obj\Debug\Lab6.pdb

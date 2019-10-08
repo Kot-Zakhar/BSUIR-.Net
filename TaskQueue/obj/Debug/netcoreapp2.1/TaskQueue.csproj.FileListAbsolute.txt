@@ -1,0 +1,8 @@
+D:\5 sem\SPP\SPP\TaskQueue\bin\Debug\netcoreapp2.1\TaskQueue.deps.json
+D:\5 sem\SPP\SPP\TaskQueue\bin\Debug\netcoreapp2.1\TaskQueue.dll
+D:\5 sem\SPP\SPP\TaskQueue\bin\Debug\netcoreapp2.1\TaskQueue.pdb
+D:\5 sem\SPP\SPP\TaskQueue\obj\Debug\netcoreapp2.1\TaskQueue.csprojAssemblyReference.cache
+D:\5 sem\SPP\SPP\TaskQueue\obj\Debug\netcoreapp2.1\TaskQueue.AssemblyInfoInputs.cache
+D:\5 sem\SPP\SPP\TaskQueue\obj\Debug\netcoreapp2.1\TaskQueue.AssemblyInfo.cs
+D:\5 sem\SPP\SPP\TaskQueue\obj\Debug\netcoreapp2.1\TaskQueue.dll
+D:\5 sem\SPP\SPP\TaskQueue\obj\Debug\netcoreapp2.1\TaskQueue.pdb
